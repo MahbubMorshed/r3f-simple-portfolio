@@ -42,7 +42,7 @@ const Test = () => {
               position={[0, 1.56, -1.4]}
               rotation-x={-0.256}
             >
-              <iframe src="https://mahbubmorshed.net/" />
+              <iframe src="http://mahbubmorshed.net/" />
             </Html>
           </primitive>
           <Text
